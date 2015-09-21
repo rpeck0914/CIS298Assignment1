@@ -3,4 +3,9 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="counter">0</string>
+    <string name="add_one">+</string>
+    <string name="subtract_one">-</string>
+
 </resources>
